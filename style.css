@@ -10,7 +10,8 @@ body {
 
 html, body, h1, h2, p {
 	margin: 0px;
-	padding: 0px;
+	text-decoration: none;
+	background: #CCC
 }
 
 /* TYPO */
